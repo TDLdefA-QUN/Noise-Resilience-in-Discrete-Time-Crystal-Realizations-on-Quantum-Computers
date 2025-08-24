@@ -1,0 +1,6 @@
+gate,count
+u3,1680
+rz,1638
+cx,1598
+u2,6
+measure,1

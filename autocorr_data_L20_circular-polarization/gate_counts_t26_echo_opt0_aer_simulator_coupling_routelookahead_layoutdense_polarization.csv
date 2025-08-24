@@ -1,0 +1,6 @@
+gate,count
+u3,2080
+rz,2028
+cx,1978
+u2,6
+measure,1
