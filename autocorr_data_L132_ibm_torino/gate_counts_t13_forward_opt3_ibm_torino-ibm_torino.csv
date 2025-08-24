@@ -1,0 +1,6 @@
+gate,count
+sx,9632
+rz,8736
+cz,4372
+x,1066
+measure,1

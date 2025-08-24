@@ -1,0 +1,5 @@
+gate,count
+sx,8
+cz,5
+rz,4
+measure,1

@@ -1,0 +1,5 @@
+gate,count
+rz,13660
+sx,7914
+cz,2902
+measure,1
